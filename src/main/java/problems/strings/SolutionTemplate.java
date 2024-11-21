@@ -1,4 +1,4 @@
-package template;
+package problems.strings;
 
 /*
 Problem: https://leetcode.com/problems/two-sum/
